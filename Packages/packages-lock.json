@@ -1,5 +1,16 @@
 {
   "dependencies": {
+    "com.cesium.unity": {
+      "version": "file:/Users/mbp/Downloads/com.cesium.unity-1.24.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.0",
+        "com.unity.test-framework": "1.1.31",
+        "com.unity.shadergraph": "12.1.6",
+        "com.unity.inputsystem": "1.4.2"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.17",
       "depth": 1,
@@ -38,6 +49,15 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.7.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.mathematics": {

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d989861ef825b2e4fb3cbcd03f532909, type: 3}
+  m_Name: ion.cesium.com
+  m_EditorClassIdentifier: 
+  serverUrl: https://ion.cesium.com
+  apiUrl: https://api.cesium.com
+  oauth2ApplicationID: 381
+  defaultIonAccessTokenId: 0e5c1798-78c0-4076-9f7b-1e51687317f4
+  defaultIonAccessToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwZTVjMTc5OC03OGMwLTQwNzYtOWY3Yi0xZTUxNjg3MzE3ZjQiLCJpZCI6NDU2MjE1LCJzdWIiOiJTaGVlcmluIiwiaXNzIjoiaHR0cHM6Ly9hcGkuY2VzaXVtLmNvbSIsImF1ZCI6ImljYm0wMSAoQ3JlYXRlZCBieSBDZXNpdW0gRm9yIFVuaXR5KSIsImlhdCI6MTc4NTM5NDM5Mn0.P4JL72lD0-7eez9nHMM2ZJVkuPIaY9DvBhptYIdKmtc
